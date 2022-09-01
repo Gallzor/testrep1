@@ -1,2 +1,4 @@
 1. Dit is een bestand die wordt gecommit.
 2. dit is de 2e commit. hallo!
+3. Nu test ik een test branch.
+4. en dit is om te laten zien dat ik het anders moet committen
